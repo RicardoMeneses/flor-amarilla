@@ -14,6 +14,26 @@ function App() {
         <h1 style={{ color: 'white' }}>Te quiero Mucho</h1>
       </div>
       <div>
+        <svg
+          className='svg-sun'
+          version='1.1'
+          viewBox='0 0 100 100'
+          preserveAspectRatio='xMinYMin meet'
+        >
+          <circle cx='50' cy='50' r='35' id='sun'></circle>
+        </svg>
+      </div>
+
+      <div className='x1'>
+        <div className='cloud'></div>
+      </div>
+      <div className='x2'>
+        <div className='cloud'></div>
+      </div>
+      <div className='x3'>
+        <div className='cloud'></div>
+      </div>
+      <div>
         <div className='flower_wrapper'>
           <div className='flower_stem'></div>
           <div className='flower_center'></div>
