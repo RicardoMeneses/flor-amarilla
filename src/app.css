@@ -314,9 +314,9 @@
   }
 }
 
-@media (max-width: 758px) {
+@media (max-width: 768px) {
   h1 {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
     text-align: justify;
   }

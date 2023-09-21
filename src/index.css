@@ -36,6 +36,15 @@ body {
 
   animation: spin 25s linear infinite, sun-glow 3s 0s linear infinite;
 }
+
+@media (max-width: 768px) {
+  .svg-sun {
+    width: 80px;
+    height: 80px;
+    top: 40px;
+    right: 40px;
+  }
+}
 /* the circle element in the svg itself */
 #sun {
   stroke-width: 18;
