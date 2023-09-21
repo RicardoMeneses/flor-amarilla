@@ -316,6 +316,7 @@
 
 @media (max-width: 758px) {
   h1 {
+    font-size: 18px;
     font-weight: 400;
     text-align: justify;
   }
